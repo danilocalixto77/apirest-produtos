@@ -37,7 +37,7 @@ public class SwaggerConfig {
                 "apirest-produtos-dhc",
                 "1.0",
                 "Terms of Service",
-                new Contact("Danilo Calixto créditos para professora: Michelli Brito", "https://www.youtube.com/michellibrito",
+                new Contact("Danilo Calixto | Crédito: Prof: Michelli Brito", "https://www.youtube.com/michellibrito",
                         "danilocalixto@gmail.com"),
                 "Apache License Version 2.0",
                 "https://www.apache.org/licesen.html", new ArrayList<VendorExtension>()
