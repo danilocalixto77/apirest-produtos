@@ -33,8 +33,8 @@ public class SwaggerConfig {
     private ApiInfo metaInfo() {
 
         ApiInfo apiInfo = new ApiInfo(
-                "Produtos API REST",
-                "API REST de cadastro de produtos.",
+                "API REST",
+                "apirest-produtos-dhc",
                 "1.0",
                 "Terms of Service",
                 new Contact("Danilo Calixto créditos para professora: Michelli Brito", "https://www.youtube.com/michellibrito",
